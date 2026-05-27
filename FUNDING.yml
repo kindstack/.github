@@ -1,0 +1,8 @@
+# 💖 Sponsorship configuration for all Kindstack repositories
+# Codekind is a 501(c)(3) nonprofit teaching kids to code.
+# Donations made through PayPal Giving Fund have 0% fees —
+# 100% of your contribution supports Codekind's mission.
+#
+# Learn more: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+ 
+custom: ["https://www.paypal.com/us/fundraiser/charity/5645907"]
