@@ -10,7 +10,7 @@ GitHub automatically applies the files here to every repository in the org that 
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The org's public landing page, shown at [github.com/kindstack](https://github.com/kindstack). This is the most visible file in the repository. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to file issues, name branches, write commits, and open pull requests. Linked from the "Contributing guidelines" prompt when someone opens a PR. |
-| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant v2.1. Enforcement reports go to `hello@codekind.net`. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Adapted from Contributor Covenant v2.1, with a reworded pledge. Enforcement reports go to `hello@codekind.net`. |
 | [`SECURITY.md`](SECURITY.md) | How to report a vulnerability. Surfaces as the "Security policy" link on the Security tab. |
 | [`SUPPORT.md`](SUPPORT.md) | Where to go for help. Linked from the new-issue page. |
 | [`FUNDING.yml`](FUNDING.yml) | Drives the **Sponsor** button, pointing at Codekind's PayPal Giving Fund page (0% fees). |
