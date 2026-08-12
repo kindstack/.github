@@ -27,7 +27,7 @@ For example: "Ran the test suite on Python 3.11" or
 
 ## Checklist
 
-- [ ] I have read the [contributing guidelines](../CONTRIBUTING.md)
+- [ ] I have read the [contributing guidelines](https://github.com/kindstack/.github/blob/main/CONTRIBUTING.md)
 - [ ] This pull request covers a single logical change
 - [ ] Existing tests, linters, and builds still pass
 - [ ] I have updated documentation where the change affects how the project is used
