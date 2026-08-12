@@ -11,7 +11,7 @@ We build small, practical tools — iOS apps, static sites, and command-line uti
 | [money-sanitizer](https://github.com/kindstack/money-sanitizer) | A Python utility that cleans up QIF and OFX bank exports so Microsoft Money Sunset Edition can import them without choking. Normalizes text to Money-safe ASCII, repairs dates, amounts, and required OFX fields. Standard library only. |
 | [callri](https://github.com/kindstack/callri) | A self-hosted Asterisk 18 phone system, packaged in Docker for a Synology NAS and wired to a Telnyx SIP trunk. Built so a kid can use an ordinary analog phone, with inbound and outbound number whitelists as the safety model. |
 
-Our other repositories are private while they are still finding their shape.
+The rest of our repositories are private for now.
 
 ## Support our work
 
@@ -33,6 +33,6 @@ Issues and pull requests are welcome on any public repository.
 ## Contact
 
 - Web: [codekind.net](https://codekind.net)
-- General enquiries: [hello@codekind.net](mailto:hello@codekind.net)
+- General questions: [hello@codekind.net](mailto:hello@codekind.net)
 
 Some projects list their own contact address in their README — for anything specific to a project, that address will reach the right people faster.

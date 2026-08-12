@@ -1,6 +1,6 @@
 # .github
 
-This repository holds the **default community health files** for the [KindStack](https://github.com/kindstack) organisation.
+This repository holds the **default community health files** for the [KindStack](https://github.com/kindstack) organization.
 
 GitHub automatically applies the files here to every repository in the org that does not provide its own version. A file committed in an individual repository always overrides the default in this one.
 

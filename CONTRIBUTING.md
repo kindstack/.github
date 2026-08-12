@@ -59,7 +59,6 @@ We do not require [Conventional Commits](https://www.conventionalcommits.org/), 
 ## Pull requests
 
 - Keep each pull request to a single logical change. Several unrelated fixes in one branch are much harder to review, and one problem blocks all of them.
-- Fill in the pull request template.
 - Explain how you tested the change. "Built and ran on iPhone 15 simulator, iOS 17" tells a reviewer far more than "tested".
 - Update the README or other docs if your change affects how someone uses the project.
 - Make sure any existing tests, linters, or builds still pass.
@@ -71,11 +70,11 @@ Review is done by a small team, largely in spare time, so please be patient. We 
 
 ## Code of Conduct
 
-Participation in KindStack projects is covered by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it. We take it seriously and it applies to issues, pull requests, and code review just as much as anywhere else.
+Participation in KindStack projects is covered by our [Code of Conduct](CODE_OF_CONDUCT.md). It applies to issues, pull requests, and code review just as much as anywhere else.
 
 ## Licensing
 
-Each repository carries its own licence. By contributing, you agree that your contribution is licensed under the licence of the repository you are contributing to.
+Each repository carries its own license. By contributing, you agree that your contribution is licensed under the license of the repository you are contributing to.
 
 ## Questions
 
