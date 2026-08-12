@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or help using a project
+    url: https://github.com/kindstack/.github/blob/main/SUPPORT.md
+    about: Not sure where to start, or need help using one of our projects? Read this first.
+  - name: Report a security vulnerability
+    url: https://github.com/kindstack/.github/blob/main/SECURITY.md
+    about: Please do not open a public issue for security problems. Report them privately instead.
+  - name: Support Codekind
+    url: https://codekind.net
+    about: KindStack is the software home of Codekind, a 501(c)(3) nonprofit teaching kids to code.

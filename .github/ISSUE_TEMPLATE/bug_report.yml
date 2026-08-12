@@ -1,0 +1,73 @@
+name: Bug report
+description: Report something that isn't working as it should
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug report.
+
+        **Please do not report security vulnerabilities here.** See our [security policy](https://github.com/kindstack/.github/blob/main/SECURITY.md) for how to report those privately.
+
+        Before you continue, please search the existing issues — if someone has already reported this, adding your details to that issue helps more than a new one.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem, and what you expected to happen instead.
+      placeholder: I expected the file to import cleanly, but the importer rejected it with an error.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: The exact steps someone else can follow to see the same problem.
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version, release, tag, or commit were you using?
+      placeholder: v1.2.0, or commit a1b2c3d
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Whatever is relevant — OS and version, device or simulator, language runtime, browser.
+      placeholder: |
+        OS: macOS 14.4
+        Device: iPhone 15 simulator, iOS 17.4
+        Python: 3.11.6
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or error output
+      description: Paste any relevant output. This is automatically formatted as code, so no backticks are needed.
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have searched the existing issues for a duplicate.
+          required: true
+        - label: I have removed any passwords, API keys, tokens, or personal data from the details above.
+          required: true

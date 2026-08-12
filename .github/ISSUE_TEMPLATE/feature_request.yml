@@ -1,0 +1,51 @@
+name: Feature request
+description: Suggest an idea or improvement for this project
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement.
+
+        It helps to describe the **problem** you are trying to solve before proposing a particular solution — there is often a simpler approach that nobody had thought of yet.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: What are you trying to do, and what gets in the way at the moment?
+      placeholder: Every time I import a statement I have to manually strip out the currency symbols first.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like to see?
+      description: Describe the change or feature you have in mind.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you have considered
+      description: Other approaches you thought about, or workarounds you are using today.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: Extra context, examples, or references. Screenshots and mockups are welcome.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have searched the existing issues for a similar request.
+          required: true
