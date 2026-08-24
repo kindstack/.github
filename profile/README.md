@@ -2,7 +2,7 @@
 
 KindStack is the software home of **[Codekind](https://codekind.net)**, a 501(c)(3) nonprofit that teaches kids to code.
 
-We build small, practical tools — iOS apps, static sites, and command-line utilities — and open source the ones that might be useful to someone else. Most of what we build starts as a real problem someone actually had, which tends to keep the scope honest.
+We build small, practical tools — iOS and tvOS apps, static sites, and command-line utilities — and open source the ones that might be useful to someone else. Most of what we build starts as a real problem someone actually had, which tends to keep the scope honest.
 
 ## Projects
 
