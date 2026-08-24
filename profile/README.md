@@ -10,6 +10,7 @@ We build small, practical tools — iOS apps, static sites, and command-line uti
 | --- | --- |
 | [money-sanitizer](https://github.com/kindstack/money-sanitizer) | A Python utility that cleans up QIF and OFX bank exports so Microsoft Money Sunset Edition can import them without choking. Normalizes text to Money-safe ASCII, repairs dates, amounts, and required OFX fields. Standard library only. |
 | [callri](https://github.com/kindstack/callri) | A self-hosted Asterisk 18 phone system, packaged in Docker for a Synology NAS and wired to a Telnyx SIP trunk. Built so a kid can use an ordinary analog phone, with inbound and outbound number whitelists as the safety model. |
+| [gallery-hours](https://github.com/kindstack/gallery-hours) | A tvOS app that turns an Apple TV into a quiet digital art frame, showing public-domain artwork from The Metropolitan Museum of Art fullscreen. Rotates pieces on a timer, with digital mattes, picture-frame overlays, and anti-burn-in jitter, plus a Top Shelf extension on the Home screen. |
 
 The rest of our repositories are private for now.
 
