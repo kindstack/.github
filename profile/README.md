@@ -13,8 +13,6 @@ We build small, practical tools — iOS and tvOS apps, static sites, and command
 | [gallery-hours](https://github.com/kindstack/gallery-hours) | A tvOS app that turns an Apple TV into a quiet digital art frame, showing public-domain artwork from The Metropolitan Museum of Art fullscreen. Rotates pieces on a timer, with digital mattes, picture-frame overlays, and anti-burn-in jitter, plus a Top Shelf extension on the Home screen. |
 | [recipe-corner](https://github.com/kindstack/recipe-corner) | A SwiftUI recipe manager for iOS and Mac Catalyst, backed by Core Data with iCloud sync. Finds and imports recipes from the web, scales ingredients with real unit conversion, plans meals on a calendar, and builds a shopping cart that exports to Reminders. Source-available under MIT with the Commons Clause. |
 
-The rest of our repositories are private for now.
-
 ## Support our work
 
 Codekind is a registered 501(c)(3) nonprofit. Donations go through **PayPal Giving Fund, which charges 0% fees** — every cent of your contribution reaches the mission.
